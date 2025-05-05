@@ -276,3 +276,4 @@ C:\Users\lenovo\source\repos\Learn ASP\Learn ASP\obj\Debug\net9.0\refint\Learn A
 C:\Users\lenovo\source\repos\Learn ASP\Learn ASP\obj\Debug\net9.0\Learn ASP.pdb
 C:\Users\lenovo\source\repos\Learn ASP\Learn ASP\obj\Debug\net9.0\Learn ASP.genruntimeconfig.cache
 C:\Users\lenovo\source\repos\Learn ASP\Learn ASP\obj\Debug\net9.0\ref\Learn ASP.dll
+C:\Users\lenovo\source\repos\Learn ASP\Learn ASP\obj\Debug\net9.0\Learn ASP.sourcelink.json

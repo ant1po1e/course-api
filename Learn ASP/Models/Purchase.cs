@@ -1,16 +1,25 @@
-﻿namespace Learn_ASP.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Learn_ASP.Models
 {
     public class Purchase
     {
-        public int PurchaseId { get; set; }
-        public int UserId { get; set; }
-        public int CourseId { get; set; }
-        public string PaymentMethod { get; set; } = null!;
-        public decimal OriginalPrice { get; set; }
-        public decimal DiscountApplied { get; set; }
-        public decimal PaidAmount { get; set; }
-        public DateTime PurchaseDate { get; set; } = DateTime.UtcNow;
+        public int Id { get; set; }
+        [Required]
+        public int User_Id { get; set; }
+        [Required]
+        public int Course_Id { get; set; }
+        public int? Coupon_Id { get; set; }
+        [Required]
+        public decimal Price_Paid { get; set; }
+        [Required]
+        public string Payment_Method { get; set; } = null!;
+        public DateTime Purchased_At { get; set; }
 
+        [Required]
+        public User User { get; set; } = null!;
+        [Required]
         public Course Course { get; set; } = null!;
+        public Coupon? Coupon { get; set; }
     }
 }

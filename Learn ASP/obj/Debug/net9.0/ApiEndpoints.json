@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "Learn_ASP.Controllers.CouponController",
+    "Method": "GetCoupons",
+    "RelativePath": "gsa-api/v1/coupons",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Learn_ASP.Controllers.CouponController",
+    "Method": "AddCoupon",
+    "RelativePath": "gsa-api/v1/coupons",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Learn_ASP.Models.CreateCouponRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Learn_ASP.Controllers.CoursesController",
     "Method": "GetCourses",
     "RelativePath": "gsa-api/v1/courses",
@@ -32,6 +58,22 @@
   },
   {
     "ContainingType": "Learn_ASP.Controllers.CoursesController",
+    "Method": "AddCourse",
+    "RelativePath": "gsa-api/v1/courses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Learn_ASP.Models.CreateCourseRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Learn_ASP.Controllers.CoursesController",
     "Method": "GetCourseDetail",
     "RelativePath": "gsa-api/v1/courses/{courseId}",
     "HttpMethod": "GET",
@@ -41,6 +83,48 @@
       {
         "Name": "courseId",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Learn_ASP.Controllers.CoursesController",
+    "Method": "UpdateCourse",
+    "RelativePath": "gsa-api/v1/courses/{courseId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "courseId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Learn_ASP.Models.UpdateCourseRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Learn_ASP.Controllers.CoursesController",
+    "Method": "PurchaseCourse",
+    "RelativePath": "gsa-api/v1/courses/{courseId}/purchase",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "courseId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Learn_ASP.Models.PurchaseRequest",
         "IsRequired": true
       }
     ],
