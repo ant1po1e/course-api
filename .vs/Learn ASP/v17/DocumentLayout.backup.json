@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|c:\\users\\lenovo\\source\\repos\\learn asp\\learn asp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|solutionrelative:learn asp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|c:\\users\\lenovo\\source\\repos\\learn asp\\learn asp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|solutionrelative:learn asp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|c:\\users\\lenovo\\source\\repos\\learn asp\\learn asp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|solutionrelative:learn asp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|c:\\users\\lenovo\\source\\repos\\learn asp\\learn asp\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|solutionrelative:learn asp\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|c:\\users\\lenovo\\source\\repos\\learn asp\\learn asp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|solutionrelative:learn asp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|c:\\users\\lenovo\\source\\repos\\learn asp\\learn asp\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|solutionrelative:learn asp\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|c:\\users\\lenovo\\source\\repos\\learn asp\\learn asp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|solutionrelative:learn asp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|c:\\users\\lenovo\\source\\repos\\learn asp\\learn asp\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|solutionrelative:learn asp\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|c:\\users\\lenovo\\source\\repos\\learn asp\\learn asp\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|solutionrelative:learn asp\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|c:\\users\\lenovo\\source\\repos\\learn asp\\learn asp\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|solutionrelative:learn asp\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|c:\\users\\lenovo\\source\\repos\\learn asp\\learn asp\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|solutionrelative:learn asp\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|c:\\users\\lenovo\\source\\repos\\learn asp\\learn asp\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|solutionrelative:learn asp\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|c:\\users\\lenovo\\source\\repos\\learn asp\\learn asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|solutionrelative:learn asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|c:\\users\\lenovo\\source\\repos\\learn asp\\learn asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22B8E8-C088-4058-B1AD-D736C21EE1C8}|Learn ASP\\Learn ASP.csproj|solutionrelative:learn asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Learn ASP\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Learn ASP\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:19:18.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Learn ASP\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Learn ASP\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T05:26:50.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Learn ASP\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "Learn ASP\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:56:41.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Learn ASP\\Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "Learn ASP\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:04:57.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Learn ASP\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Models\\Course.cs",
+              "RelativeToolTip": "Learn ASP\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:17:50.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Helpers\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Learn ASP\\Helpers\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Helpers\\PasswordHasher.cs",
+              "RelativeToolTip": "Learn ASP\\Helpers\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:04:35.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Learn ASP\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Models\\User.cs",
+              "RelativeToolTip": "Learn ASP\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:55:55.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "Learn ASP\\Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Models\\Coupon.cs",
+              "RelativeToolTip": "Learn ASP\\Models\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:34:01.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Models\\Purchase.cs",
+              "RelativeDocumentMoniker": "Learn ASP\\Models\\Purchase.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Models\\Purchase.cs",
+              "RelativeToolTip": "Learn ASP\\Models\\Purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:34:23.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Models\\Module.cs",
+              "RelativeDocumentMoniker": "Learn ASP\\Models\\Module.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Models\\Module.cs",
+              "RelativeToolTip": "Learn ASP\\Models\\Module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:18:07.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Learn ASP\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Learn ASP\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:57:24.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "Learn ASP\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "Learn ASP\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:56:58.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\appsettings.json",
+              "RelativeDocumentMoniker": "Learn ASP\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\appsettings.json",
+              "RelativeToolTip": "Learn ASP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T02:53:50.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Program.cs",
+              "RelativeDocumentMoniker": "Learn ASP\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Learn ASP\\Learn ASP\\Program.cs",
+              "RelativeToolTip": "Learn ASP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T05:27:18.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
